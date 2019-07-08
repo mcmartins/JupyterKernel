@@ -4,7 +4,8 @@
 
 define([
   'base/js/namespace',
-  'nbextensions/gap-mode/gap'
+  'nbextensions/gap-mode/gap-lint',
+  'nbextensions/gap-mode/gap-highlight',
 ], function () {
   'use strict';
 
